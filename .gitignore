@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+log.txt
+data_info.txt
+# VSCode files
+.vscode/
